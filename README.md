@@ -61,7 +61,7 @@ Output: a time traveler tries to fix mistakes from the past
 Input : a retired agent
 Output: a retired agent comes back for one final dangerous mission
 ```
-![Output](output (2).png)
+![Output](output(2).png)
 ---
 
 ## 🛠️ Technologies Used
